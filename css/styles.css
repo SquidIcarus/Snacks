@@ -1,6 +1,11 @@
 h1 {
-    color: blue;
+    color: crimson;
+    background-color: black;
     text-align: center;
+}
+
+.box {
+    color: green;
 }
 
 h2 {
